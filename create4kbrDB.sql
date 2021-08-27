@@ -244,3 +244,160 @@ VALUES ('Zero Dark Thirty', 2012, 'R', 157, 'A chronicle of the decade-long hunt
 
 COMMIT;
 
+BEGIN TRANSACTION;
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Sam', 'Mendes', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('James', 'Gray', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Ridley', 'Scott', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Denis', 'Villeneuve', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Alex', 'Garland', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('James', 'Wan', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Spike', 'Lee', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Martin', 'Campbell', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Marc', 'Foster', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Sam', 'Mendes', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Christoper', 'Nolan', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Tim', 'Miller', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Rob', 'Letterman', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('David', 'Ayer', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('David', 'Yates', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Mamoru', 'Oshii', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Gary', 'Ross', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Ron', 'Howard', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Chad', 'Stahelski', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Todd', 'Phillips', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Rian', 'Johnson', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('James', 'Mangold', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Peter', 'Jackson', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Sam', 'Mendes', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Lana', 'Wachowski', 'F');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Lilly', 'Wachowski', 'F');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Christopher', 'McQuarrie', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Joseph', 'Kosinski', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Guillermo', 'del Toro', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Sam', 'Mendes', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Bong', 'Joon Ho', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Paul Thomas', 'Anderson', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Joachim', 'Ronning', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Espen', 'Sandberg', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Brad', 'Bird', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Jan', 'Pinkava', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Francis', 'Lawrence', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Steven', 'Spielberg', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Alejandro G.', 'Inarritu', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Jaume', 'Collet-Serra', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Jeff', 'Fowler', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Bob', 'Persichetti', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Peter', 'Ramsey', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Rodney', 'Rothman', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('M. Night', 'Shyamalan', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('J.J.', 'Abrams', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Taika', 'Waititi', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Roar', 'Uthaug', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Len', 'Wiseman', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Duncan', 'Jones', 'M');
+
+INSERT INTO directors (first_name, last_name, gender)
+VALUES ('Kathryn', 'Bigelow', 'F');
+
+COMMIT;
+
